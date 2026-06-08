@@ -3,7 +3,7 @@
 ## About me 
 
 <h3 align="left"> My name is Carlos Arturo Alfonso Garavito. I am a technology and motorsport enthusiast, passionate about data analytics and programming. I enjoy solving problems with creative solutions and constantly acquiring new knowledge to expand my expertise. My ultimate goal is to become a Data Analyst for Ducati Corse and contribute to the motorsport industry with my technical skills, always driving towards victory. </h3>
-###
+
 ## 🛠 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
