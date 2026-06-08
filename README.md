@@ -1,7 +1,11 @@
-<h2 align="left">Ey, what´s up, welcome to my GitHub 🐱</h2>
-## About me 
+<h1 align="left">Ey, what's up, welcome to my GitHub 🐱</h1>
+<h2>About me</h2>
 
 <h3 align="left"> My name is Carlos Arturo Alfonso Garavito. I am a technology and motorsport enthusiast, passionate about data analytics and programming. I enjoy solving problems with creative solutions and constantly acquiring new knowledge to expand my expertise. My ultimate goal is to become a Data Analyst for Ducati Corse and contribute to the motorsport industry with my technical skills, always driving towards victory. </h3>
+
+
+<img width="400" height="400" alt="zenless-zone-zero-zzz (1)" src="https://github.com/user-attachments/assets/d306fc8d-b26c-42fe-b5ad-5379ad317caa" />
+
 
 ## 🛠 Skills
 <div align="left">
@@ -24,14 +28,21 @@
 ###
 ## 🔗 Links
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <!-- Gmail Button -->
+  <a href="mailto:carlos.alfogara.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn Button -->
+  <a href="www.linkedin.com/in/carlos-arturo-alfonso-garavito" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
 
-<img width="260" height="110" alt="atu3h1" src="https://github.com/user-attachments/assets/0762d810-e11e-4908-bd49-83185761ecd5" />
+
 
 
 
