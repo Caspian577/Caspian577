@@ -1,5 +1,4 @@
 <h2 align="left">Ey, what´s up, welcome to my GitHub 🐱</h2>
-###
 ## About me 
 
 <h3 align="left"> My name is Carlos Arturo Alfonso Garavito. I am a technology and motorsport enthusiast, passionate about data analytics and programming. I enjoy solving problems with creative solutions and constantly acquiring new knowledge to expand my expertise. My ultimate goal is to become a Data Analyst for Ducati Corse and contribute to the motorsport industry with my technical skills, always driving towards victory. </h3>
@@ -34,5 +33,18 @@
 <br clear="both">
 
 <div class="tenor-gif-embed" data-postid="13333728815349505798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zenless-zone-zero-zzz-billy-kid-gif-13333728815349505798">Zenless Zone Zero Zzz GIF</a>from <a href="https://tenor.com/search/zenless+zone+zero-gifs">Zenless Zone Zero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+###
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
 ###
