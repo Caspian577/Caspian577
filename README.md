@@ -27,8 +27,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="200" src="https://tenor.com/es-419/view/zenless-zone-zero-zzz-billy-kid-gif-13333728815349505798"  />
-</div>
+<div class="tenor-gif-embed" data-postid="13333728815349505798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zenless-zone-zero-zzz-billy-kid-gif-13333728815349505798">Zenless Zone Zero Zzz GIF</a>from <a href="https://tenor.com/search/zenless+zone+zero-gifs">Zenless Zone Zero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
