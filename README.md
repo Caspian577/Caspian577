@@ -1,5 +1,8 @@
 <h2 align="left">Ey, what´s up, welcome to my GitHub 🐱</h2>
+###
+## About me 
 
+<h3 align="left"> My name is Carlos Arturo Alfonso Garavito. I am a technology and motorsport enthusiast, passionate about data analytics and programming. I enjoy solving problems with creative solutions and constantly acquiring new knowledge to expand my expertise. My ultimate goal is to become a Data Analyst for Ducati Corse and contribute to the motorsport industry with my technical skills, always driving towards victory. </h3>
 ###
 ## 🛠 Skills
 <div align="left">
@@ -14,6 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
 </div>
 
 ###
