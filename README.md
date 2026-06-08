@@ -30,21 +30,10 @@
 
 ###
 
-<br clear="both">
 
-<div class="tenor-gif-embed" data-postid="13333728815349505798" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zenless-zone-zero-zzz-billy-kid-gif-13333728815349505798">Zenless Zone Zero Zzz GIF</a>from <a href="https://tenor.com/search/zenless+zone+zero-gifs">Zenless Zone Zero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="260" height="110" alt="atu3h1" src="https://github.com/user-attachments/assets/0762d810-e11e-4908-bd49-83185761ecd5" />
 
-###
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+
+
 
 ###
